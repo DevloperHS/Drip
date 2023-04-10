@@ -40,8 +40,8 @@ Replace "master" with the name of the branch you are working on("**developement*
 1. Go to your forked repository page on GitHub (developement).
 2. Click on the **"Pull Requests"** tab.
 3. Click on the green **"New pull request"** button.
-4. Select the base branch (the branch you want to merge into - *main*) from the dropdown menu. This should be the main branch of the Drip repository.
-5. Select the compare branch (the branch with your changes - *developement*) from the dropdown menu. This should be the branch you just pushed your changes to.
+4. Select the base branch (the branch you want to merge into - *main*) from the dropdown menu
+5. Select the compare branch (the branch with your changes - *developement*) from the dropdown menu. 
 6. Review the changes made in the "Files changed" tab to ensure that they are correct.
 7. Write a clear and concise description of the changes you made and why they are necessary in the "Write" tab. 
 8. Click on the green "Create pull request" button.
