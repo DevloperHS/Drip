@@ -1,7 +1,7 @@
 # Drip
 A content tipping platform, where every drip counts - powered by USDC!
 
-#Contributing to the Drip Project
+# Contributing to the Drip Project
 Thank you for considering contributing to the Drip project! We appreciate your time and effort to make our project better.
 To contribute to the project, please follow these steps:
 
